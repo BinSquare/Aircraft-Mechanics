@@ -1,0 +1,41 @@
+T = 360;
+S = 175.5;
+friction = 0.025
+
+friction =
+
+    0.0250
+
+Thrust = 360; RefArea = 175.5
+
+RefArea =
+
+  175.5000
+
+slope = 0;
+weight = 2450;
+gravity = 32.2;
+SLdensity = 0.00238
+
+SLdensity =
+
+    0.0024
+
+Cdo = 0.02
+
+Cdo =
+
+    0.0200
+
+K = 0.085
+
+K =
+
+    0.0850
+
+CLmax = 1.78
+
+CLmax =
+
+    1.7800
+
